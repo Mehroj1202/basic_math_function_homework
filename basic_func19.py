@@ -8,4 +8,5 @@ def main(a, b):
     Returns:
         int: the result.
     '''
-    return
+    return abs(a-b)
+print(main(13,45))
